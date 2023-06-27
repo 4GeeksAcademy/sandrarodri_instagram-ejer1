@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+div.post{
+    width: 440px;
+    height: 600px;
+    background-color: white;
+    display: block;
+    margin: 60px auto;
+}
+
+div.header{
+    display: flex;
+    padding: 10px;
+}
+
+div.title{
+    padding-left: 10px;
+    margin: 0;
+}
+
+div.ellipsis{
+    margin-left: auto;
+}
+
+div.icons{
+    padding: 10px;
+    margin: 0px;
+}
+
+i.fa-regular.fa-bookmark.fa-tamaño{
+    margin-left: 295px;
+}
+
+h1{
+    font-size: 14px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.p-header{
+    font-size: 14px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.p-texto{
+    font-size: 14px;
+    padding: 0 10px 0 10px;
+
+}
+
+img{
+    width: 100%;
+    height: 330px;
+}
+
+.fa-tamaño{
+    font-size: 28px;
+}
+
+
+
+
+
