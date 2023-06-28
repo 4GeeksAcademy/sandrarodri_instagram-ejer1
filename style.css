@@ -26,12 +26,21 @@ div.ellipsis{
 }
 
 div.icons{
+    display: flex;
     padding: 10px;
     margin: 0px;
 }
 
 i.fa-regular.fa-bookmark.fa-tamaño{
-    margin-left: 295px;
+    margin-left: auto;
+}
+
+i.fa-regular.fa-heart.fa-tamaño{
+    margin-right: 5px;
+}
+
+i.fa-regular.fa-comment.fa-tamaño{
+    margin-right: 5px;
 }
 
 h1{
